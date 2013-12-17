@@ -1,0 +1,34 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u896007847",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"video-settings-ctl::video-settings::video_device" : [ "Blackmagic HD 720" ],
+					"video-settings-ctl::video-settings::video_input" : [ "Built-in iSight" ],
+					"zone::1enable" : [ 0 ],
+					"zone::1-coords" : [ 32, 25, 100, 201, 63, 120 ],
+					"zone[1]::3enable" : [ 0 ],
+					"zone[1]::3-coords" : [ 194, 49, 268, 196, 228, 129 ],
+					"zone[2]::2enable" : [ 0 ],
+					"zone[2]::2-coords" : [ 117, 40, 185, 200, 148, 127 ],
+					"zone[3]::4enable" : [ 0 ],
+					"zone[3]::4-coords" : [ 20, 27, 310, 218, 162, 129 ],
+					"zone[5]::5enable" : [ 0 ],
+					"zone[5]::5-coords" : [ 20, 27, 310, 218, 162, 129 ],
+					"zone[4]::6enable" : [ 0 ],
+					"zone[4]::6-coords" : [ 20, 27, 310, 218, 162, 129 ],
+					"zone[7]::7enable" : [ 0 ],
+					"zone[7]::7-coords" : [ 45, 15, 239, 74, 139, 51 ],
+					"zone[6]::8enable" : [ 0 ],
+					"zone[6]::8-coords" : [ 42, 119, 260, 201, 148, 167 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

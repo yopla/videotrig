@@ -1,0 +1,34 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u625000847",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"video-settings-ctl::video-settings::video_device" : [ "USB Video Class Video" ],
+					"video-settings-ctl::video-settings::video_input" : [ "Built-in iSight" ],
+					"zone::1enable" : [ 1 ],
+					"zone::1-coords" : [ 11, 20, 76, 67, 40, 50 ],
+					"zone[1]::3enable" : [ 1 ],
+					"zone[1]::3-coords" : [ 233, 29, 291, 77, 259, 60 ],
+					"zone[2]::2enable" : [ 1 ],
+					"zone[2]::2-coords" : [ 140, 28, 203, 76, 168, 59 ],
+					"zone[3]::4enable" : [ 0 ],
+					"zone[3]::4-coords" : [ 14, 21, 59, 57, 33, 46 ],
+					"zone[5]::5enable" : [ 0 ],
+					"zone[5]::5-coords" : [ 14, 21, 59, 57, 33, 46 ],
+					"zone[4]::6enable" : [ 0 ],
+					"zone[4]::6-coords" : [ 14, 21, 59, 57, 33, 46 ],
+					"zone[7]::7enable" : [ 0 ],
+					"zone[7]::7-coords" : [ 14, 21, 59, 57, 33, 46 ],
+					"zone[6]::8enable" : [ 0 ],
+					"zone[6]::8-coords" : [ 14, 21, 59, 57, 33, 46 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

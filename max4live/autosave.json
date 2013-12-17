@@ -1,0 +1,26 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u257009498",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"video-settings-ctl::video-settings::video_device" : [ "DV Video" ],
+					"video-settings-ctl::video-settings::video_input" : [ "Built-in iSight" ],
+					"zone::1enable" : [ 0 ],
+					"zone::patcher::1-coords" : [ 123, 28, 174, 63, 145, 52 ],
+					"zone[1]::3enable" : [ 0 ],
+					"zone[1]::patcher::3-coords" : [ 123, 28, 174, 63, 145, 52 ],
+					"zone[2]::2enable" : [ 0 ],
+					"zone[2]::patcher::2-coords" : [ 123, 28, 174, 63, 145, 52 ],
+					"zone[3]::4enable" : [ 0 ],
+					"zone[3]::patcher::4-coords" : [ 123, 28, 174, 63, 145, 52 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
